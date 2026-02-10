@@ -1,8 +1,63 @@
-# HM-website
-"H&amp;M" is an e-commerce website similar to website H&amp;M.
+# 📘 Case Study: HM – E-commerce Website
 
-Technologies Used: HTML, CSS, JS, JQuery.
+HM is an e-commerce website interface inspired by modern fashion retail platforms.  
+The project focuses on building a structured shopping experience using HTML, CSS, JavaScript, and jQuery, with emphasis on layout organization, product presentation, and UI consistency.
 
+The project demonstrates frontend fundamentals and static UI implementation without using modern frameworks.
+
+---
+
+## 📌 Project Overview
+
+The goal of this project was to recreate a fashion e-commerce interface that simulates a real online shopping experience while focusing on UI structure and visual hierarchy.
+
+Core focus:
+
+- Product-focused layout structure
+- Clear navigation and category flow
+- Consistent product card design
+- Organized page sections
+- Clean visual presentation
+
+This project highlights frontend layout fundamentals and UI composition using core web technologies.
+
+---
+
+## ✨ Key Features
+
+- Product listing and product detail layouts
+- Category-based navigation structure
+- Image-focused product presentation
+- Structured header and navigation system
+- Consistent spacing and typography
+- Interactive UI behavior using JavaScript and jQuery
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+
+---
+
+## 🧩 Development Approach
+
+The project focuses on core UI principles:
+
+- Semantic HTML structure
+- Separation between layout and styling
+- Organized CSS for maintainability
+- Reusable layout patterns
+- Clear visual hierarchy for product browsing
+
+The implementation prioritizes simplicity while simulating a real-world e-commerce UI structure.
+
+---
+
+## 📷 Screenshots
 
 ![Screenshot (1099)](https://github.com/YOmnAA98/HM-website/assets/97298678/fac65eb8-f119-41ec-a990-d7ec3b188928)
 ![Screenshot (1100)](https://github.com/YOmnAA98/HM-website/assets/97298678/fdc7c649-a1f0-48f4-aced-4e44d89b499e)
